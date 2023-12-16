@@ -1,2 +1,2 @@
 # Hello-World
-My first learning Git Repository
+First Commit
